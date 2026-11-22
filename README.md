@@ -91,13 +91,6 @@ The dataset is not included in this repository, per Kaggle's competition rules.
 
 Python, PyTorch, pandas, NumPy, matplotlib
 
-## Team
-
-- Ethan Zhu
-- *Teammate name*
-- *Teammate name*
-- *Teammate name*
-
 ## References
 
 - [NFL Big Data Bowl 2026 – Prediction](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction) (Kaggle)
