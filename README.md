@@ -94,4 +94,3 @@ Python, PyTorch, pandas, NumPy, matplotlib
 ## References
 
 - [NFL Big Data Bowl 2026 – Prediction](https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction) (Kaggle)
-- Vaswani et al., [*Attention Is All You Need*](https://arxiv.org/abs/1706.03762) (2017)
